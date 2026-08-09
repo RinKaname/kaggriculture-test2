@@ -1,3 +1,4 @@
+from kaggle_environments.envs.kaggriculture.kaggriculture import CROPS
 import math
 import copy
 
